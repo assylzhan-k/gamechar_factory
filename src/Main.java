@@ -22,11 +22,13 @@ public class Main {
 
         ElementFactory anemoFactory = ElementFactoryProvider.getFactory(ElementType.ANEMO);
         GameClient anemoClient = new GameClient(anemoFactory);
+
         System.out.println("\nanemo fam:");
         anemoClient.showElementBuild();
 
         ElementFactory cryoFactory = ElementFactoryProvider.getFactory(ElementType.CRYO);
         GameClient cryoClient = new GameClient(cryoFactory);
+
         System.out.println("\ncryo fam:");
         cryoClient.showElementBuild();
     }
