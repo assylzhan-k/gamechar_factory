@@ -71,6 +71,10 @@ public interface ElementFactory {
 
 ---
 
+<img width="770" height="533" alt="Screenshot 2026-09-20 at 22 26 32" src="https://github.com/user-attachments/assets/a80cbfb2-b6d5-448f-9f8e-f532849dd5b5" />
+
+---
+
 ## Factory Method vs Abstract Factory
 
 **Factory Method** creates one type of product.
