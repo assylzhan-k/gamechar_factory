@@ -10,6 +10,7 @@ This Java project demonstrates two creational design patterns:
 The project uses an elemental RPG theme inspired by games like Genshin Impact.
 
 ---
+
 ## Final src
 
 ```
