@@ -155,21 +155,3 @@ if (factory == null) {
 ```
 
 This prevents invalid objects from being used.
-
----
-
-## How to Run
-
-1. Open the project in IntelliJ IDEA.
-2. Open `Main.java`.
-3. Run the `main()` method.
-4. The Factory Method and Abstract Factory examples will be displayed in the console.
-
----
-
-## Technologies
-
-- Java 17
-- IntelliJ IDEA
-- Git
-- GitHub
