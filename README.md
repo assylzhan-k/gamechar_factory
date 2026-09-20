@@ -10,6 +10,38 @@ This Java project demonstrates two creational design patterns:
 The project uses an elemental RPG theme inspired by games like Genshin Impact.
 
 ---
+## Final src
+
+```
+src/
+│
+├── ElementalCharacter.java
+├── AnemoCharacter.java
+├── CryoCharacter.java
+│
+├── CharacterCreator.java
+├── AnemoCharacterCreator.java
+├── CryoCharacterCreator.java
+│
+├── Weapon.java
+├── AnemoWeapon.java
+├── CryoWeapon.java
+│
+├── Artifact.java
+├── AnemoArtifact.java
+├── CryoArtifact.java
+│
+├── ElementFactory.java
+├── AnemoFactory.java
+├── CryoFactory.java
+│
+├── ElementType.java
+├── ElementFactoryProvider.java
+├── GameClient.java
+└── Main.java
+```
+
+---
 
 ## Part A — Factory Method
 
